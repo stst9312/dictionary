@@ -1,0 +1,19 @@
+.dictionitem{
+    background-color: white;
+}
+button{
+    margin:5px;
+}
+.title{
+    font-weight: bold;
+}
+.cate{
+    font-weight: bold;
+    color:red;
+}
+.dicItem>div{
+    background-color: orange;
+}
+.dicItem>div dd{
+    margin:20px 0;
+}

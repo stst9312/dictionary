@@ -1,0 +1,14 @@
+.diclist{
+    width:500px;
+    border:1px solid black;
+    padding:30px 0;
+    margin-top:20px;
+    background-color: white;
+}
+.dicItem>div{
+    width:300px;
+    margin:0 auto;
+    padding:10px 0;
+    border:1px solid black;
+    margin-top: 30px;
+}

@@ -1,0 +1,19 @@
+.dicWrite{
+    width:500px;
+    margin:0 auto;
+    border:1px solid black;
+    padding: 20px 0;
+    background-color: white;
+}
+
+.dicWrite>h2{
+    margin-bottom: 15px;
+}
+.dicWrite>div dt{
+    margin-bottom: 10px;
+
+}
+
+.dicWrite>div>div>select{
+    width:70px;
+}

@@ -1,0 +1,16 @@
+*{
+  text-align: center;
+  margin:0 auto;
+
+}
+.App{
+  width:550px;
+  background-color: black;
+  padding:30px 0;
+}
+button{
+  background-color: brown;
+  color:white;
+  border:none;
+  padding:5px 15px;
+}
